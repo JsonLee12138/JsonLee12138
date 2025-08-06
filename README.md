@@ -51,10 +51,7 @@
 
 ## 🎯 Current Focus
 
--   🔭 Building full-stack applications
--   🌱 Studying advanced system design & architecture
--   🤝 Open for collaboration on cool projects
--   💬 Ask me about JavaScript, Vue.js, React, Go
+-   💬 headless-ai 
 
 ---
 
