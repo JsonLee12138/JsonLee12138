@@ -2,16 +2,6 @@
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/666U6JTCQY) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lijunsong2@gmail.com) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/json_lee12138) [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~jsonlee_12138)
 
----
-
-## 🚀 About Me
-
--   🧑‍💻 Full-Stack Developer with **4+ years** of experience
--   💡 Passionate about modern JavaScript frameworks and cross-platform solutions
--   🌐 Builder of scalable applications, explorer of new technologies
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -36,34 +26,9 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
----
-
-## 💼 Experience
-
-**Frontend Developer**
-
-☑️ Specialized in Vue.js & React  
-☑️ Responsive web apps & cross-platform solutions  
-☑️ Familiar with modern build tools & workflows  
-☑️ Work in both English & Chinese environments
-
----
-
-## 🎯 Current Focus
-
--   💬 headless-ai 
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JsonLee12138&show_icons=true&hide_border=true&title_color=c6c6c6&text_color=999999&icon_color=bbbbbb&bg_color=2f343f" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsonLee12138&layout=compact&hide_border=true&title_color=c6c6c6&text_color=999999&icon_color=bbbbbb&bg_color=2f343f" height="180em" />
 </p>
-
----
-
-## ⚡ Fun Fact
-
-> I love exploring new tech & building tools that make developers' lives easier!
